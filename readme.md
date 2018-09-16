@@ -1,1 +1,1 @@
-A  simple timer application using React.
+Boilerplate React App
